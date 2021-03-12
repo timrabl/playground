@@ -1,0 +1,8 @@
+# Ignore .DS_Store files
+**/.DS_Store
+
+# Ignore .iml files
+**/*.iml
+
+#Ignore .idea folder
+**/.idea/
